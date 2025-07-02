@@ -1,5 +1,8 @@
 # 🏗️ Activity #1: Vibe Check
 
+
+EXPLAIN HOW DIDN'T TRY TO "IMPROVE" BECAUSE IT WAS ALREADY GOOD NEOUGH
+
 ## 1. Explain the concept of object-oriented programming in simple terms to a complete beginner.
 
    ### Response:
